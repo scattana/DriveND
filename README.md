@@ -1,2 +1,6 @@
-# DriveND
-DriveND is a portal autonomous driving assistant capable of performing lane detection and object avoidance tasks while minimizing system cost
+# CPEG-Capstone
+
+## DriveND: Portable Autonomous Driving Assistant
+#### Computer Engineering Capstone Design
+#### University of Notre Dame, Fall 2019
+#### Seth Cattanach, Mitchell MacKnight, Brendan O'Donnell
